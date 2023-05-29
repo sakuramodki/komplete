@@ -121,7 +121,7 @@ class RelationResolver
     {
         $grades = [
             'SELECT',
-            'NORMAL',
+            'STANDARD',
             'ULTIMATE',
             'ULTIMATE Collector\'s Edition',
         ];
